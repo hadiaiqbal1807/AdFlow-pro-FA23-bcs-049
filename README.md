@@ -1,5 +1,8 @@
 # AdFlow-pro-FA23-bcs-049
 midterm project
+## 🚀 Live Demo
+[Click here to view the Live Website](https://ad-flow-pro-fa-23-bcs-049.vercel.app)
+
 Project Overview
 AdFlow Pro is an advanced digital solution designed to transform traditional, manual university notice boards into a cloud-based, centralized platform. Built specifically for COMSATS University, it allows students to access real-time announcements while providing management with a powerful dashboard to control and broadcast notices efficiently.
 
